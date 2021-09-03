@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-03T16:00:13.315Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="00S5bMR8tDOL-JumQuLy" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-03T16:22:31.227Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="dsH6RJEuJFQImhvLdyjm" version="15.0.6" type="github" pages="2">
   <diagram id="2udWvhuLIn5F1aJYKyFY" name="Les1Task8">
-    <mxGraphModel dx="782" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="1571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HvABWrBAhduc00oCb8Dr-1" value="begin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" width="120" height="80" as="geometry" />
+          <mxGeometry x="300" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HvABWrBAhduc00oCb8Dr-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HvABWrBAhduc00oCb8Dr-2" target="HvABWrBAhduc00oCb8Dr-4">
           <mxGeometry relative="1" as="geometry" />
@@ -139,6 +139,90 @@
               <mxPoint x="50" y="530" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HvABWrBAhduc00oCb8Dr-42" value="&lt;h3 style=&quot;box-sizing: border-box; font-family: roboto, &amp;quot;san francisco&amp;quot;, &amp;quot;helvetica neue&amp;quot;, helvetica, arial; font-weight: 500; line-height: 24px; color: rgb(63, 83, 104); margin-top: 20px; margin-bottom: 10px; font-size: 7px; background-color: rgb(255, 255, 255);&quot;&gt;8. Вводятся три разных числа. Найти, какое из них является средним (больше одного, но меньше другого).&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="10" width="140" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Les1Task3" id="DjD5yctvn2aXabjyT8_T">
+    <mxGraphModel dx="1609" dy="1571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ojIaidEshDOceeMDrKE3-0" />
+        <mxCell id="ojIaidEshDOceeMDrKE3-1" parent="ojIaidEshDOceeMDrKE3-0" />
+        <mxCell id="ojIaidEshDOceeMDrKE3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ojIaidEshDOceeMDrKE3-1" source="ojIaidEshDOceeMDrKE3-3" target="ojIaidEshDOceeMDrKE3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ojIaidEshDOceeMDrKE3-3" value="begin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ojIaidEshDOceeMDrKE3-1">
+          <mxGeometry x="297.5" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ojIaidEshDOceeMDrKE3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ojIaidEshDOceeMDrKE3-1" source="ojIaidEshDOceeMDrKE3-5" target="ojIaidEshDOceeMDrKE3-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ojIaidEshDOceeMDrKE3-5" value="number1, number2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="ojIaidEshDOceeMDrKE3-1">
+          <mxGeometry x="290" y="70" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ojIaidEshDOceeMDrKE3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ojIaidEshDOceeMDrKE3-1" source="ojIaidEshDOceeMDrKE3-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ojIaidEshDOceeMDrKE3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="ojIaidEshDOceeMDrKE3-1" source="ojIaidEshDOceeMDrKE3-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="51" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="51" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ojIaidEshDOceeMDrKE3-8" value="number1 &amp;lt; number2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="ojIaidEshDOceeMDrKE3-1">
+          <mxGeometry x="267.5" y="150" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ojIaidEshDOceeMDrKE3-9" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ojIaidEshDOceeMDrKE3-1">
+          <mxGeometry x="420" y="160" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ojIaidEshDOceeMDrKE3-24" value="" style="endArrow=none;html=1;" edge="1" parent="ojIaidEshDOceeMDrKE3-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="400" as="sourcePoint" />
+            <mxPoint x="50" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="330" />
+              <mxPoint x="50" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ojIaidEshDOceeMDrKE3-25" value="" style="endArrow=none;html=1;" edge="1" parent="ojIaidEshDOceeMDrKE3-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="400" as="sourcePoint" />
+            <mxPoint x="460" y="310" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ojIaidEshDOceeMDrKE3-26" value="" style="endArrow=none;html=1;" edge="1" parent="ojIaidEshDOceeMDrKE3-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="400" as="sourcePoint" />
+            <mxPoint x="460" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ojIaidEshDOceeMDrKE3-27" value="" style="endArrow=none;html=1;" edge="1" parent="ojIaidEshDOceeMDrKE3-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="400" as="sourcePoint" />
+            <mxPoint x="250" y="457" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ojIaidEshDOceeMDrKE3-28" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="ojIaidEshDOceeMDrKE3-1">
+          <mxGeometry x="220" y="460" width="65" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ojIaidEshDOceeMDrKE3-31" value="&lt;h3 style=&quot;box-sizing: border-box ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;san francisco&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; ; font-weight: 500 ; line-height: 24px ; color: rgb(63 , 83 , 104) ; margin-top: 20px ; margin-bottom: 10px ; font-size: 7px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;pre style=&quot;color: rgb(8 , 8 , 8) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;&lt;span style=&quot;color: #8c8c8c ; font-style: italic&quot;&gt;# 3. Написать программу, которая генерирует в указанных пользователем границах:&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #8c8c8c ; font-style: italic&quot;&gt;# a. случайное целое число,&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;white-space: normal&quot;&gt;# b. случайное вещественное число,&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;color: #8c8c8c ; font-style: italic&quot;&gt;# c. случайный символ&lt;/span&gt;&lt;/pre&gt;&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=7;" vertex="1" parent="ojIaidEshDOceeMDrKE3-1">
+          <mxGeometry x="10" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fnEqGvF_aoJpZYGKKgH5-1" value="&#xa;&#xa;&lt;pre style=&quot;font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; color: rgb(8 , 8 , 8) ; font-family: &amp;quot;jetbrains mono&amp;quot; , monospace ; font-size: 6px&quot;&gt;random.randint(&lt;span style=&quot;color: rgb(0 , 0 , 128)&quot;&gt;int&lt;/span&gt;(number2), &lt;span style=&quot;color: rgb(0 , 0 , 128)&quot;&gt;int&lt;/span&gt;(number1)&lt;/pre&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;align=center;" vertex="1" parent="ojIaidEshDOceeMDrKE3-1">
+          <mxGeometry x="20" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fnEqGvF_aoJpZYGKKgH5-2" value="&lt;br&gt;&lt;br&gt;&lt;pre style=&quot;font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(255 , 255 , 255) ; color: rgb(8 , 8 , 8) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 6px&quot;&gt;random.randint(&lt;span style=&quot;color: rgb(0 , 0 , 128)&quot;&gt;int&lt;/span&gt;(number1), &lt;span style=&quot;color: rgb(0 , 0 , 128)&quot;&gt;int&lt;/span&gt;(number2)&lt;/pre&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;align=center;" vertex="1" parent="ojIaidEshDOceeMDrKE3-1">
+          <mxGeometry x="360" y="280" width="157.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
